@@ -8,8 +8,8 @@ ___
 ___
 #### 1. high school studient 
 1. 고등학생 입니다
-#### 2. I'm studying C++ and I want to learn any other C language and more C++ 
-2. 배우고 있고 다른 C 언어 와 다른것들도 배우고 싶슴다
+#### 2. I'm studying C++ and I want to learn any other C language and more 
+2. C++ 배우고 있고 다른 C 언어 와 다른것들도 배우고 싶슴다
 #### 3. I'm amateur yet but I'll try to be master 
 3. 아직 초보 수듄 되지만 마스터 되고 싶습니다
 #### 4.  If you ask me any question, I respond you as far as I know 

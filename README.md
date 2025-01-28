@@ -17,8 +17,8 @@ ___
 #### 5.  If I seem to have some inadequacies, you can advise me as much as you like 
 5. 제가 부족해 보인다면 마음껏 훈수 두실수 있어요
 ___
-### here's my link
-링크
+### here's my activity
+활동장소
 ___
 ![Static Badge](https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoSize=auto&label=X(twitter)&link=https%3A%2F%2Fx.com%2Fnodongi1%3Fs%3D21%26t%3DTtHYT-amPyxudFUFo7x9xQ)
 ___
